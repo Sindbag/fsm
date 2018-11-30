@@ -1,0 +1,9 @@
+s 0 START
+s 1 MID
+i 0 v
+i 1 x
+i 2 w
+o 0 ''
+o 1 Ticket
+o 2 0
+o 3 5

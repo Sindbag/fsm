@@ -1,0 +1,11 @@
+s 2 START MID
+i 3 v x w
+o 4 '' Ticket 0 5
+n0 START
+p 6
+START v MID ''
+START x START Ticket
+START w START 0
+MID v START Ticket
+MID x MID Ticket
+MID w START 5
